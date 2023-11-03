@@ -1,0 +1,4 @@
+
+Run this command in the terminal in order to activate the visrtual environment: \coberturas\Scripts\Activate.ps1
+
+In order to test the test_coberturas.py scrpit, run: python -m test_coberturas
